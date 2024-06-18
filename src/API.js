@@ -1,0 +1,1 @@
+export const API_URL='https://openlibrary.org/search.json?q=YOUR_QUERY&limit=10'
